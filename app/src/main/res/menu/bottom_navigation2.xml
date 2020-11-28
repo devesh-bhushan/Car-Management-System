@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+
+    <item
+        android:id="@+id/ic_home"
+        android:icon="@drawable/ic_home"
+        android:title="Home"
+        android:enabled="true" />
+    <item
+        android:id="@+id/ic_graph"
+        android:icon="@drawable/ic_graph"
+        android:title="Graph"
+        android:enabled="true"/>
+    <item
+        android:id="@+id/ic_add"
+        android:icon="@drawable/ic_add"
+        android:title="New Car"
+        android:enabled="true"/>
+    <item
+        android:id="@+id/ic_add2"
+        android:enabled="true"
+        android:icon="@drawable/ic_add"
+        android:title="Sell Details" />
+
+    <item
+        android:id="@+id/ic_profile"
+        android:icon="@drawable/ic_persondetail"
+        android:title="Profile"
+        android:enabled="true"/>
+
+</menu>
